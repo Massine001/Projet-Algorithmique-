@@ -75,7 +75,7 @@ dmax=max(d)                   ##################### 2eme étape appel à la fonc
 
 #print("max=",dmax)  
 
-
+#
 l=creneau_opt(dmax,g,d)
 
 print("gain==",sum_gain(l))
